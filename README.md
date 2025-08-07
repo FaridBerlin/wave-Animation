@@ -17,6 +17,7 @@ Visit the live demo: [https://faridberlin.github.io/wave-Animation/](https://far
 ## How it Works
 
 The animation uses:
+
 - CSS `transform-style: preserve-3d` for 3D effects
 - `perspective()` and `rotateX()` for the tilted view
 - `translateZ()` keyframes to create the wave motion
@@ -24,11 +25,11 @@ The animation uses:
 
 ## Usage
 
-Simply open `wave.html` in your web browser to view the animation locally, or visit the GitHub Pages deployment.
+Simply open `index.html` in your web browser to view the animation locally, or visit the GitHub Pages deployment.
 
 ## Files
 
-- `wave.html` - Main HTML structure
+- `index.html` - Main HTML structure
 - `wave.css` - CSS animations and styling
 
 ## Browser Compatibility
